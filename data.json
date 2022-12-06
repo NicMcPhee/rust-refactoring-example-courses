@@ -1,0 +1,471 @@
+[
+    {
+        "title": "Dolore velit anim eu nulla consequat id.",
+        "instructor": {
+            "name": {
+                "first_name": "Marissa",
+                "last_name": "Williamson"
+            },
+            "department": "StudioArt",
+            "position": "Instructor"
+        },
+        "students": [
+            {
+                "name": {
+                    "first_name": "Marva",
+                    "last_name": "Wall"
+                },
+                "major": "NativeAmericanAndIndigenousStudies"
+            },
+            {
+                "name": {
+                    "first_name": "Tania",
+                    "last_name": "Rocha"
+                },
+                "major": "StudioArt"
+            },
+            {
+                "name": {
+                    "first_name": "Nettie",
+                    "last_name": "Harmon"
+                },
+                "major": "ComputerScience"
+            },
+            {
+                "name": {
+                    "first_name": "Cassandra",
+                    "last_name": "Hickman"
+                },
+                "major": "History"
+            },
+            {
+                "name": {
+                    "first_name": "Morrow",
+                    "last_name": "Mann"
+                },
+                "major": "NativeAmericanAndIndigenousStudies"
+            },
+            {
+                "name": {
+                    "first_name": "Barbra",
+                    "last_name": "Witt"
+                },
+                "major": "History"
+            },
+            {
+                "name": {
+                    "first_name": "Roberson",
+                    "last_name": "Merritt"
+                },
+                "major": "ComputerScience"
+            },
+            {
+                "name": {
+                    "first_name": "Claudia",
+                    "last_name": "Levy"
+                },
+                "major": "ComputerScience"
+            }
+        ]
+    },
+    {
+        "title": "Magna qui labore fugiat voluptate tempor sunt eu culpa reprehenderit fugiat.",
+        "instructor": {
+            "name": {
+                "first_name": "Copeland",
+                "last_name": "Byrd"
+            },
+            "department": "StudioArt",
+            "position": "Professor"
+        },
+        "students": [
+            {
+                "name": {
+                    "first_name": "Adrienne",
+                    "last_name": "Harrell"
+                },
+                "major": "ComputerScience"
+            },
+            {
+                "name": {
+                    "first_name": "Santiago",
+                    "last_name": "Obrien"
+                },
+                "major": "NativeAmericanAndIndigenousStudies"
+            },
+            {
+                "name": {
+                    "first_name": "Duran",
+                    "last_name": "Goodman"
+                },
+                "major": "ComputerScience"
+            },
+            {
+                "name": {
+                    "first_name": "Pennington",
+                    "last_name": "Bartlett"
+                },
+                "major": "NativeAmericanAndIndigenousStudies"
+            },
+            {
+                "name": {
+                    "first_name": "Mooney",
+                    "last_name": "Marquez"
+                },
+                "major": "History"
+            },
+            {
+                "name": {
+                    "first_name": "Clay",
+                    "last_name": "Donovan"
+                },
+                "major": "History"
+            },
+            {
+                "name": {
+                    "first_name": "Helga",
+                    "last_name": "Vaughn"
+                },
+                "major": "NativeAmericanAndIndigenousStudies"
+            },
+            {
+                "name": {
+                    "first_name": "Amber",
+                    "last_name": "Lucas"
+                },
+                "major": "ComputerScience"
+            },
+            {
+                "name": {
+                    "first_name": "Conway",
+                    "last_name": "Johnston"
+                },
+                "major": "History"
+            },
+            {
+                "name": {
+                    "first_name": "Dunlap",
+                    "last_name": "Bowman"
+                },
+                "major": "ComputerScience"
+            }
+        ]
+    },
+    {
+        "title": "Cupidatat est laborum ut magna id sit aute.",
+        "instructor": {
+            "name": {
+                "first_name": "Nolan",
+                "last_name": "Pollard"
+            },
+            "department": "StudioArt",
+            "position": "Professor"
+        },
+        "students": [
+            {
+                "name": {
+                    "first_name": "Marcie",
+                    "last_name": "Gay"
+                },
+                "major": "ComputerScience"
+            },
+            {
+                "name": {
+                    "first_name": "Molina",
+                    "last_name": "Giles"
+                },
+                "major": "History"
+            },
+            {
+                "name": {
+                    "first_name": "Jeanette",
+                    "last_name": "Workman"
+                },
+                "major": "History"
+            },
+            {
+                "name": {
+                    "first_name": "Johnson",
+                    "last_name": "Stone"
+                },
+                "major": "NativeAmericanAndIndigenousStudies"
+            },
+            {
+                "name": {
+                    "first_name": "Sandy",
+                    "last_name": "Sparks"
+                },
+                "major": "History"
+            },
+            {
+                "name": {
+                    "first_name": "Aisha",
+                    "last_name": "Mercer"
+                },
+                "major": "History"
+            },
+            {
+                "name": {
+                    "first_name": "Talley",
+                    "last_name": "Rios"
+                },
+                "major": "History"
+            },
+            {
+                "name": {
+                    "first_name": "Preston",
+                    "last_name": "Barker"
+                },
+                "major": "StudioArt"
+            }
+        ]
+    },
+    {
+        "title": "Do Lorem sunt tempor adipisicing incididunt nulla tempor qui reprehenderit exercitation.",
+        "instructor": {
+            "name": {
+                "first_name": "Regina",
+                "last_name": "Norton"
+            },
+            "department": "History",
+            "position": "Professor"
+        },
+        "students": [
+            {
+                "name": {
+                    "first_name": "Bette",
+                    "last_name": "Simon"
+                },
+                "major": "History"
+            },
+            {
+                "name": {
+                    "first_name": "Karina",
+                    "last_name": "Becker"
+                },
+                "major": "NativeAmericanAndIndigenousStudies"
+            },
+            {
+                "name": {
+                    "first_name": "Lauren",
+                    "last_name": "Lambert"
+                },
+                "major": "NativeAmericanAndIndigenousStudies"
+            },
+            {
+                "name": {
+                    "first_name": "Brigitte",
+                    "last_name": "Berger"
+                },
+                "major": "StudioArt"
+            },
+            {
+                "name": {
+                    "first_name": "Peters",
+                    "last_name": "England"
+                },
+                "major": "History"
+            },
+            {
+                "name": {
+                    "first_name": "Mcfadden",
+                    "last_name": "Wise"
+                },
+                "major": "NativeAmericanAndIndigenousStudies"
+            },
+            {
+                "name": {
+                    "first_name": "Paul",
+                    "last_name": "Hicks"
+                },
+                "major": "History"
+            }
+        ]
+    },
+    {
+        "title": "Velit magna ea do quis commodo eiusmod.",
+        "instructor": {
+            "name": {
+                "first_name": "Baldwin",
+                "last_name": "Wolf"
+            },
+            "department": "StudioArt",
+            "position": "AssistantProfessor"
+        },
+        "students": [
+            {
+                "name": {
+                    "first_name": "Sophia",
+                    "last_name": "Justice"
+                },
+                "major": "StudioArt"
+            },
+            {
+                "name": {
+                    "first_name": "Lucinda",
+                    "last_name": "Sanders"
+                },
+                "major": "StudioArt"
+            },
+            {
+                "name": {
+                    "first_name": "Olivia",
+                    "last_name": "Perez"
+                },
+                "major": "StudioArt"
+            },
+            {
+                "name": {
+                    "first_name": "Strickland",
+                    "last_name": "Hatfield"
+                },
+                "major": "ComputerScience"
+            },
+            {
+                "name": {
+                    "first_name": "Dillard",
+                    "last_name": "Dawson"
+                },
+                "major": "NativeAmericanAndIndigenousStudies"
+            }
+        ]
+    },
+    {
+        "title": "Lorem dolore ex consectetur nostrud fugiat ex sint voluptate ex in labore.",
+        "instructor": {
+            "name": {
+                "first_name": "Shannon",
+                "last_name": "Beach"
+            },
+            "department": "StudioArt",
+            "position": "Professor"
+        },
+        "students": [
+            {
+                "name": {
+                    "first_name": "Shepard",
+                    "last_name": "Thornton"
+                },
+                "major": "StudioArt"
+            },
+            {
+                "name": {
+                    "first_name": "Horne",
+                    "last_name": "Stephens"
+                },
+                "major": "StudioArt"
+            },
+            {
+                "name": {
+                    "first_name": "Lourdes",
+                    "last_name": "Frye"
+                },
+                "major": "NativeAmericanAndIndigenousStudies"
+            },
+            {
+                "name": {
+                    "first_name": "Luann",
+                    "last_name": "Velazquez"
+                },
+                "major": "ComputerScience"
+            },
+            {
+                "name": {
+                    "first_name": "Adeline",
+                    "last_name": "Rhodes"
+                },
+                "major": "StudioArt"
+            },
+            {
+                "name": {
+                    "first_name": "Moss",
+                    "last_name": "Velez"
+                },
+                "major": "History"
+            },
+            {
+                "name": {
+                    "first_name": "Rachael",
+                    "last_name": "Foley"
+                },
+                "major": "NativeAmericanAndIndigenousStudies"
+            },
+            {
+                "name": {
+                    "first_name": "Keith",
+                    "last_name": "Poole"
+                },
+                "major": "StudioArt"
+            },
+            {
+                "name": {
+                    "first_name": "Nanette",
+                    "last_name": "Mcfadden"
+                },
+                "major": "ComputerScience"
+            }
+        ]
+    },
+    {
+        "title": "Fugiat ea voluptate adipisicing Lorem elit ipsum ullamco sit nulla eu.",
+        "instructor": {
+            "name": {
+                "first_name": "Arlene",
+                "last_name": "Medina"
+            },
+            "department": "ComputerScience",
+            "position": "Professor"
+        },
+        "students": [
+            {
+                "name": {
+                    "first_name": "Leonor",
+                    "last_name": "Fischer"
+                },
+                "major": "ComputerScience"
+            },
+            {
+                "name": {
+                    "first_name": "Gabrielle",
+                    "last_name": "Flowers"
+                },
+                "major": "StudioArt"
+            },
+            {
+                "name": {
+                    "first_name": "Trujillo",
+                    "last_name": "Steele"
+                },
+                "major": "History"
+            },
+            {
+                "name": {
+                    "first_name": "Cardenas",
+                    "last_name": "Harvey"
+                },
+                "major": "NativeAmericanAndIndigenousStudies"
+            },
+            {
+                "name": {
+                    "first_name": "Alissa",
+                    "last_name": "Blevins"
+                },
+                "major": "ComputerScience"
+            },
+            {
+                "name": {
+                    "first_name": "Letitia",
+                    "last_name": "Guzman"
+                },
+                "major": "History"
+            },
+            {
+                "name": {
+                    "first_name": "Erin",
+                    "last_name": "Cortez"
+                },
+                "major": "History"
+            }
+        ]
+    }
+]
