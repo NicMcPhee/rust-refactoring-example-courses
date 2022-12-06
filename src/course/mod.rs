@@ -1,7 +1,12 @@
+pub mod course;
+
 use std::iter::Map;
+
+use serde::Deserialize;
 
 use crate::{person::{Student, Faculty}, grade::Grade};
 
+#[derive(Deserialize, Debug)]
 pub struct Course {
     title: String,
     instructor: Faculty,
