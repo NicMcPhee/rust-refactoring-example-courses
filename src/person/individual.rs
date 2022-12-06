@@ -1,40 +1,15 @@
-pub struct Name {
-    first_name: String,
-    last_name: String,
+use std::fmt::Display;
+
+use super::{Faculty, Name};
+
+impl Display for Name {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        write!(f, "{}, {}", self.last_name, self.first_name)
+    }
 }
 
-pub enum Department {
-    ComputerScience,
-    StudioArt,
-    History,
-}
-
-pub enum Position {
-    Instructor,
-    AssistantProfessor,
-    AssociateProfessor,
-    Professor,
-}
-
-pub struct Faculty {
-    name: Name,
-    department: Department,
-    position: Position,
-}
-
-pub enum Major {
-    ComputerScience,
-    NativeAmericanAndIndigenousStudies,
-    StudioArt,
-    History,
-}
-
-pub struct Student {
-    name: Name,
-    major: Major,
-}
-
-pub enum Individual {
-    Faculty(Faculty),
-    Student(Student),
+impl Display for Faculty {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        write!(f, "{}", self.name)
+    }
 }
